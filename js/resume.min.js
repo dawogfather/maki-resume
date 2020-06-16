@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Resume v1.0.0 (https://maki.tolentino.xyz)
- * Copyright 2013-2019 Maki Tolentino
+ * Copyright 2013-2020 Maki Tolentino
  * Licensed under MIT (https://github.com/BlackrockDigital/maki-resume/blob/master/LICENSE)
  */
 
